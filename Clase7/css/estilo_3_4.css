@@ -1,0 +1,34 @@
+.contenedor {
+    border: 2px solid black;
+}
+
+/* 200 px */
+.pixeles {
+    width: 200px;
+}
+
+/* 2inch (pulgadas) */
+.pulgadas {
+    width: 2in;
+}
+
+/* 10cm */
+.centimetros {
+    width: 10cm;
+}
+
+/* Medidas relativas */
+/* 10 em */
+.segunEm {
+    width: 10em;
+}
+
+/* 10 rem */
+.segunRem {
+    width: 10rem;
+}
+
+/* 10 % */
+.segunPorcentaje {
+    width: 10%;
+}

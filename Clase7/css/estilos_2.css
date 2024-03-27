@@ -1,0 +1,27 @@
+/* Selector universal */
+* {
+    background-color: black;
+    color: whitesmoke;
+}
+
+h2 {
+    color: greenyellow;
+}
+
+/* "Piso" lo declarado anteriormente */
+/* h2 {
+    color: red;
+} */
+
+/* Selector de clase */
+/* .nombreDeLaClase */
+.parrafoDistinto {
+    border: 1px solid white;
+    color: red;
+}
+
+/* Selector por identificador */
+/* #identificador */
+#parrafoUnico {
+    background-color: blue;
+}
