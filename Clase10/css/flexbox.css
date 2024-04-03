@@ -1,0 +1,28 @@
+/* Escalo y ordeno imágenes */
+
+picture {
+    display: flex;
+    padding: 2%;
+}
+
+img {
+    width: 20%;
+    height: auto;
+}
+
+.imgArticulo {
+    /* justify-content: space-between; */
+    justify-content: space-around;
+}
+
+/* Artículos en misma línea */
+article {
+    width: 35%;
+}
+
+section {
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+    justify-content: space-around;
+}
