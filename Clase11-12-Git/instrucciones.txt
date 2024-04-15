@@ -1,0 +1,25 @@
+git init [nombre-opcional]
+Para crear el repo local, opcionalmente puedo crear la carpeta.
+
+git status
+Obtener el estado del repo: Working, Staging o Repository.
+
+Staging
+git add .   // Agrego todo
+git add mi_archivo.ext  // agrego sólo archivo
+
+Repository
+git commit -m "mensaje descriptivo del nodo"
+
+Para ver los commit´s
+git log --oneline // ver cada commit en una sola línea
+git log --all // para ver todos los commit´s
+
+Para cambiar de commit (también para ramas)
+git checkout [número de commit]
+
+Ramas
+git branch [nombre_rama] // creo la rama
+git checkout [nombre_rama] // accedo a la rama
+
+git merge [nombre_rama] // unifico rama, siempre desde la rama de destino

@@ -1,0 +1,22 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/ChTole/Prueba-Colab-24261.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[branch "bootstrap"]
+	remote = origin
+	merge = refs/heads/bootstrap
+[branch "contacto"]
+	remote = origin
+	merge = refs/heads/contacto
+[branch "dev1chris"]
+	remote = origin
+	merge = refs/heads/dev1chris
