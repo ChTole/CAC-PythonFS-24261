@@ -11,3 +11,6 @@ Acceso a vistas:
 - [Clase 8](https://ChTole.github.io/CAC-PythonFS-24261/Clase8)
 - [Clase 9](https://ChTole.github.io/CAC-PythonFS-24261/Clase9)
 - [Clase 10](https://ChTole.github.io/CAC-PythonFS-24261/Clase10)
+
+Para utilizar el repositorio, crear un entorno virtual y ejecutar:  
+pip install -r requirements.txt
