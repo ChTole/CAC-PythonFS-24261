@@ -1,7 +1,6 @@
 from componentes.config_db import conexion
 
 def obtener_datos():
-    datos =  {"mensaje": 'Sin conexión a la BBDD!'}
     con = conexion
     
     try:
