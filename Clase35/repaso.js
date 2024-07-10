@@ -1,0 +1,3 @@
+objeto = {
+    hoy: 'Lunes'
+}
